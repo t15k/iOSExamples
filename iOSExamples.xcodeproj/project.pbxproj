@@ -14,6 +14,7 @@
 		E11DC5CB28B241CC00E9C893 /* iOSExamplesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11DC5CA28B241CC00E9C893 /* iOSExamplesTests.swift */; };
 		E11DC5D528B241CC00E9C893 /* iOSExamplesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11DC5D428B241CC00E9C893 /* iOSExamplesUITests.swift */; };
 		E11DC5D728B241CC00E9C893 /* iOSExamplesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11DC5D628B241CC00E9C893 /* iOSExamplesUITestsLaunchTests.swift */; };
+		E11DC5E428B2424300E9C893 /* AnimationSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11DC5E328B2424200E9C893 /* AnimationSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E11DC5D028B241CC00E9C893 /* iOSExamplesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSExamplesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E11DC5D428B241CC00E9C893 /* iOSExamplesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSExamplesUITests.swift; sourceTree = "<group>"; };
 		E11DC5D628B241CC00E9C893 /* iOSExamplesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSExamplesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E11DC5E328B2424200E9C893 /* AnimationSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				E11DC5B928B241CA00E9C893 /* iOSExamplesApp.swift */,
 				E11DC5BB28B241CA00E9C893 /* ContentView.swift */,
+				E11DC5E328B2424200E9C893 /* AnimationSwift.swift */,
 				E11DC5BD28B241CC00E9C893 /* Assets.xcassets */,
 				E11DC5BF28B241CC00E9C893 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				E11DC5BC28B241CA00E9C893 /* ContentView.swift in Sources */,
 				E11DC5BA28B241CA00E9C893 /* iOSExamplesApp.swift in Sources */,
+				E11DC5E428B2424300E9C893 /* AnimationSwift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
